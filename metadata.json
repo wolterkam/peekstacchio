@@ -1,0 +1,13 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Id": "peekstacchio",
+        "Name": "Peekstacchio",
+        "Description": "Keep covered windows visible and within reach.",
+        "Version": "0.1.0",
+        "License": "MIT",
+        "Icon": "preferences-system-windows"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}

@@ -1,0 +1,19 @@
+# Local tooling and instructions
+.agents/
+.codex/
+AGENTS.md
+AGENTS.override.md
+
+# Build output
+/dist/
+
+# Editor settings and temporary files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db

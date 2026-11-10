@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="512" height="512" viewBox="0 0 512 512">
+  <g id="g1" transform="matrix(1.16 0 0 1.16 -30.52 -40.96)">
+  <path id="path1" d="M334 126.080032 A100 100 0 0 1 334 325.919968 Z" fill="#8EB75D"/>
+
+  <path id="path2" fill="#304D30" fill-rule="evenodd"
+        d="M88 96 H310 A24 24 0 0 1 334 120 V392 A24 24 0 0 1 310 416
+           H88 A24 24 0 0 1 64 392 V120 A24 24 0 0 1 88 96 Z
+           M90 110 H308 A12 12 0 0 1 320 122 V390 A12 12 0 0 1 308 402
+           H90 A12 12 0 0 1 78 390 V122 A12 12 0 0 1 90 110 Z"/>
+  <circle id="circle1" cx="117" cy="142" r="12" fill="#304D30"/>
+  <circle id="circle2" cx="169" cy="142" r="12" fill="#304D30"/>
+  <circle id="circle3" cx="221" cy="142" r="12" fill="#304D30"/>
+  <rect id="rect1" x="78" y="181" width="242" height="12" fill="#304D30"/>
+  <rect id="rect2" x="110" y="242" width="144" height="16" rx="8" fill="#304D30"/>
+  <rect id="rect3" x="110" y="280" width="96" height="16" rx="8" fill="#304D30"/>
+
+  <rect id="rect4" x="354" y="190" width="28" height="16" rx="8" fill="#304D30"/>
+  <rect id="rect5" x="354" y="246" width="28" height="16" rx="8" fill="#304D30"/>
+
+  <path id="path3"
+        d="M299 310 H333 C375 310 375 394 333 394 H299
+           C283 394 283 370 299 370 H314 V364 H285
+           C269 364 269 340 285 340 H314 V334 H299
+           C283 334 283 310 299 310 Z"
+        fill="#8EB75D"/>
+  </g>
+</svg>
